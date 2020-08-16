@@ -1,2 +1,3 @@
-# ScrabbleDabble # Scrab Dab
-This is the name of our first project, yay!
+# ScrabbleDabble 
+
+A fun word game to help you practice your Scrabble skills. Spell as many words as you can before the time runs out!
